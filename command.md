@@ -35,3 +35,10 @@ docker login
 # command to push the image to repo
 docker push anupamamp/reactapp:latest
 
+# install npm
+apt install npm
+
+npm init -y
+
+npm install express
+ls
